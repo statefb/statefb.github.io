@@ -1,6 +1,6 @@
 title = "Takehiro Suzuki"
 baseURL = "https://statefb.github.io/hugo-resume/"
-theme = "hugo-resume"
+theme = "statefb.github.io"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
