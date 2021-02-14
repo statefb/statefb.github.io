@@ -21,7 +21,7 @@ jobs:
           hugo-version: "0.80.0"
 
       - name: Build
-        run: hugo -t hugo-resume --themesDir .. --minify
+        run: hugo -t hugo-resume --themesDir ..
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
