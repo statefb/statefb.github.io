@@ -11,4 +11,6 @@
 
 ![](/img/sst.png)
 
-Twitter Recipe Viewer
+A fast python implementation of Singular Spectrum Transformation which is one of change point detection algorithm.
+
+More detail, see Github repo.
