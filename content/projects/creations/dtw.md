@@ -11,4 +11,11 @@
 
 ![](/img/dtw.png)
 
-Twitter Recipe Viewer
+Comprehensive dynamic time warping module for python.  
+This library has following salient features:
+
+- Partial alignment
+- Various local / global constraints
+- Fast computation by JIT compilation
+
+see more detail on Github.
