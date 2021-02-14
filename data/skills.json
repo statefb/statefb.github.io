@@ -1,0 +1,60 @@
+[
+  {
+    "grouping": "Languages, Operating Systems",
+    "skills": [
+      "Python",
+      "Go",
+      "C#",
+      "Javascript",
+      "R",
+      "Java",
+      "Linux",
+      "Mac",
+      "Windows"
+    ]
+  },
+  {
+    "grouping": "Frameworks",
+    "skills": [
+      { "name": "Vue.js" },
+      { "name": "Flask" },
+      { "name": "FastAPI" },
+      { "name": "go-swagger" }
+    ]
+  },
+  {
+    "grouping": "Development Tools",
+    "skills": [
+      { "name": "Github/Actions", "icon": "Github" },
+      { "name": "Gitlab/Runners", "icon": "git" },
+      { "name": "Docker" }
+    ]
+  },
+  {
+    "grouping": "Data Management",
+    "skills": [
+      { "name": "Postgres", "icon": "database" },
+      { "name": "Oracle", "icon": "database" },
+      { "name": "S3/Athena/Glue", "icon": "aws" },
+      "Firebase",
+      "MongoDB",
+      { "name": "Airflow" },
+      { "name": "Embulk" }
+    ]
+  },
+  {
+    "grouping": "Cloud",
+    "skills": [{ "name": "AWS" }, { "name": "GCP" }]
+  },
+  {
+    "grouping": "Data science",
+    "skills": [
+      "Multivariate analysis",
+      "Time series prediction",
+      "Anomaly Detection",
+      "Explainable AI",
+      "Convex Optimization",
+      "PyTorch"
+    ]
+  }
+]
