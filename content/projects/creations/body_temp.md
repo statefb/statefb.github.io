@@ -11,4 +11,7 @@
 
 ![](/img/body_temp.jpg)
 
-Twitter Recipe Viewer
+This app registers body temperature via LINE and offers dashboard in order to promote awareness of COVID19.  
+Currently not working.
+
+![](https://raw.githubusercontent.com/SallyChamberOrchestra/COVID19-body-temp-register/master/imgs/arch.png)
