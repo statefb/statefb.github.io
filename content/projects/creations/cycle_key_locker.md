@@ -11,5 +11,3 @@
 ![](/img/cycle_key_opener.gif)
 
 PoC project for bicycle rental
-
-![](https://raw.githubusercontent.com/SallyChamberOrchestra/COVID19-body-temp-register/master/imgs/arch.png)
