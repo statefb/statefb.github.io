@@ -21,5 +21,5 @@ outputs:
 Leading data exploitation mainly on manufacturing industry. After graduating master degree of control engineering,
 engaged in developing statistical algorithm library for new products such as anomaly detection and load prediction.
 Currently making smart factory project progress forward by developing data collection software, data pipeline and educating data science to factory operators.  
-I'm particularly good at handle sensor data i.e. time series data, and production management data i.e. table data. Currently I prefer simple, fast and classical algorithm rather than complex algorithm such as Deep learning, because in many cases interpretability is much more important than predictability if the problem setting is suitable.  
+I'm particularly good at handle sensor data i.e. time series data, and production management data i.e. table data. Currently I prefer simple, fast and classical algorithm rather than complex algorithm such as deep learning, because in many cases interpretability is much more important than predictability if the problem setting is suitable.  
 My greatest strength is curiosity on various technology such as IoT, webapp, cloud, data science / data engineering and etc.

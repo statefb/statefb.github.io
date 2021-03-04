@@ -14,4 +14,5 @@
 This app registers body temperature via LINE and offers dashboard in order to promote awareness of COVID19.  
 Currently not working.
 
+![](https://sallychamberorchestra.github.io/COVID19-body-temp-docs/imgs/dash_personal.png)
 ![](https://raw.githubusercontent.com/SallyChamberOrchestra/COVID19-body-temp-register/master/imgs/arch.png)
